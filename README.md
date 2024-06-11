@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Дизайн без названия](https://github.com/mikaisloyal/mikaisloyal/assets/99940670/fe69900c-12ab-4aae-9f39-61aaccb9844d)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
