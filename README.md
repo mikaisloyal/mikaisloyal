@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Дизайн без названия](https://github.com/mikaisloyal/mikaisloyal/assets/99940670/fe69900c-12ab-4aae-9f39-61aaccb9844d)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,4 +9,4 @@
 - 📫 How to reach me: ...
 - ⚡ Fun facts: I can do a wave with my tongue. I looove cooking!!!
 
-![Снимок экрана 2024-06-03 173737](https://github.com/mikaisloyal/mikaisloyal/assets/99940670/d1d1b078-a18b-4869-8445-13dfdc1d618c)
+
