@@ -11,14 +11,15 @@
 
 ---
 
-## 🧠 About Me
+<p>
+  <strong>About me</strong> 
+  <img src= "https://i.pinimg.com/736x/7d/e3/dc/7de3dc927561e80e7e0caf762133ee2d.jpg" width="60" style="vertical-align:middle;"/>
+</p>
 
 🎓 I'm a Computer Science student at NYIT, concentrating in **Big Data Management & Analytics**.  
 📊 I love solving problems using data, building smart systems, and exploring AI/logic.  
 🌏 Originally from Kyrgyzstan 🇰🇬, studying in NYC 🇺🇸, and dreaming big.  
 💖 I also love anime! *(you’ll see hints here and there 👀)*
-
-<!-- Cute anime sticker under "About Me" -->
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempvNnlocjQycHdiM3RndDl0YnVnNWl6Z3pxcmYzZnRlb3ppYngxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2Hq7bqjWWL8oWFz1T/giphy.gif" width="200"/>
 </p>
