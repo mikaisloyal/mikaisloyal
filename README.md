@@ -1,6 +1,6 @@
 <!-- Anime GIF header (optional welcome animation) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempvNnlocjQycHdiM3RndDl0YnVnNWl6Z3pxcmYzZnRlb3ppYngxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FWAcpJsFT9mvrv0e7a/giphy.gif" width="300"/>
 </p>
 
 <h1 align="center">Hi there, I'm Jasmine Tuiachieva! 🌸</h1>
@@ -19,28 +19,18 @@
 💖 I also love anime! *(you’ll see hints here and there 👀)*
 
 <!-- Cute anime sticker under "About Me" -->
-<p align="left">
-  <img src="https://media.giphy.com/media/vQGQVYydbCdmD1rn1z/giphy.gif" width="100"/>
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempvNnlocjQycHdiM3RndDl0YnVnNWl6Z3pxcmYzZnRlb3ppYngxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2Hq7bqjWWL8oWFz1T/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## 💼 Projects I'm Proud Of
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🌐 Global Student Network Simulator](https://github.com/TRGGB2/GlobalStudentNetworkSimulator) | A Java GUI app to connect students across countries using map pins and profile similarity | Java, Swing, Serialization |
-| [💡 Lighting Optimization Toolkit](https://github.com/YOUR-REPO-HERE) | MATLAB simulation that calculates and visualizes multi-bulb lighting layouts | MATLAB, Physics |
-| [🚦 Automated Railway Gate System](https://github.com/YOUR-REPO-HERE) | Digital logic project using finite state machines for safety systems | Logic Design, Truth Tables |
-| [📊 Happiness Index Dashboard](https://github.com/YOUR-REPO-HERE) | Tableau + Python dashboard showing patterns in global happiness | Python, Excel, Tableau |
-
----
 
 ## 💻 Skills & Tools
 
 <!-- Optional animated skill GIF -->
 <p align="right">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://i.pinimg.com/736x/3e/47/d2/3e47d21c8a3a4a25b7d8966cfbf71bf3.jpg" width="120"/>
 </p>
 
 **Languages**: Python, Java, MATLAB, C++, HTML/CSS  
@@ -53,12 +43,12 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: [ztuiachi@nyit.edu](mailto:ztuiachi@nyit.edu)  
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jasmine-tuiachieva-6338a5259/) 
 - 🗂 Portfolio (coming soon!)
 
 <!-- Chill anime footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/TxVh4cHdhIHlS/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR1cDJvcHk1eXF6Z2d6N3ZuZnJ0MDdzanV1eTRtZHF0NWwxdjNlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif" width="300"/>
 </p>
 
 ---
