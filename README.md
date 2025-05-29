@@ -11,15 +11,35 @@
 
 ---
 
+<!-- Cute anime sticker before the About Me section -->
+<h2><img src= "https://www.pngpacks.com/uploads/data/1850/IMG_Sov0Q13TOoNz.png" width="40" style="vertical-align:middle; margin-right:10px;"> About Me</h2>
+
 <p>
-  <strong>About me</strong> 
-  <img src= "https://i.pinimg.com/736x/7d/e3/dc/7de3dc927561e80e7e0caf762133ee2d.jpg" width="60" style="vertical-align:middle;"/>
+  <img src="https://www.pinterest.com/pin/636414991123974153/" width="40" style="vertical-align:middle; margin-right:10px;">
+  I'm a Computer Science student at NYIT, concentrating in <strong>Big Data Management & Analytics</strong>.
 </p>
 
-🎓 I'm a Computer Science student at NYIT, concentrating in **Big Data Management & Analytics**.  
-📊 I love solving problems using data, building smart systems, and exploring AI/logic.  
-🌏 Originally from Kyrgyzstan 🇰🇬, studying in NYC 🇺🇸, and dreaming big.  
-💖 I also love anime! *(you’ll see hints here and there 👀)*
+<p>
+  <img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="40" style="vertical-align:middle; margin-right:10px;">
+  I love solving problems using data, building smart systems, and exploring AI/logic.
+</p>
+
+<p>
+  <img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="40" style="vertical-align:middle; margin-right:10px;">
+  Originally from Kyrgyzstan 🇰🇬, studying in NYC 🇺🇸, and dreaming big.
+</p>
+
+<p>
+  <img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="40" style="vertical-align:middle; margin-right:10px;">
+  I also love anime! <em>(you’ll see hints here and there 👀)</em>
+</p>
+
+<p>
+  <img src="https://i.pinimg.com/originals/e6/24/79/e6247970aa2dabd1e1acc6e4901eaa61.gif" width="40" style="vertical-align:middle; margin-right:10px;">
+  And I enjoy cooking — especially Asian recipes and Kyrgyz comfort food!
+</p>
+
+
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempvNnlocjQycHdiM3RndDl0YnVnNWl6Z3pxcmYzZnRlb3ppYngxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2Hq7bqjWWL8oWFz1T/giphy.gif" width="200"/>
 </p>
@@ -54,7 +74,6 @@
 
 ---
 
-<!-- GitHub stats section (optional) -->
 <details>
   <summary>📊 GitHub Stats</summary>
   <br/>
