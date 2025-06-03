@@ -16,7 +16,7 @@
 <!-- Row 1 -->
 <table>
   <tr>
-    <td width="190"><img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="155"></td>
+    <td width="185"><img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="155"></td>
     <td><strong>I'm a Computer Science student at NYIT</strong>, concentrating in <strong>Big Data Management & Analytics</strong>.</td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
 <!-- Row 3 -->
 <table>
   <tr>
-    <td width="250"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="250"></td>
+    <td width="290"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="290"></td>
     <td>Originally from <strong>Kyrgyzstan 🇰🇬</strong>, studying in NYC 🇺🇸, and dreaming big.</td>
   </tr>
 </table>
