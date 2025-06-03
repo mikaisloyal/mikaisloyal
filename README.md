@@ -11,7 +11,7 @@
 ---
 
 
-<h2 align="center">About Me</h2>
+<h2 align="left">About Me</h2>
 
 <!-- Row 1 -->
 <table>
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td>I love solving problems using data, building smart systems, and exploring AI/logic.</td>
-    <td width="130"><img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="210"></td>
+    <td width="130"><img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="250"></td>
   </tr>
 </table>
 
