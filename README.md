@@ -25,14 +25,14 @@
 <table>
   <tr>
     <td>I love solving problems using data, building smart systems, and exploring AI/logic.</td>
-    <td width="150"><img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="150"></td>
+    <td width="150"><img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="210"></td>
   </tr>
 </table>
 
 <!-- Row 3 -->
 <table>
   <tr>
-    <td width="180"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="180"></td>
+    <td width="180"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="230"></td>
     <td>Originally from <strong>Kyrgyzstan 🇰🇬</strong>, studying in NYC 🇺🇸, and dreaming big.</td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td>I also love anime! <em>(you’ll see hints here and there 👀)</em></td>
-    <td width="190"><img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="190"></td>
+    <td width="190"><img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="240"></td>
   </tr>
 </table>
 
