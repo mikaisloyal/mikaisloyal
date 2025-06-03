@@ -47,11 +47,10 @@
 ---
 
 
-## 💻 Skills & Tools
+## Skills & Tools
 
-<!-- Optional animated skill GIF -->
-<p align="right">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://i.pinimg.com/736x/3e/47/d2/3e47d21c8a3a4a25b7d8966cfbf71bf3.jpg" width="120"/>
+<p>
+  <img src="https://i.pinimg.com/originals/e6/24/79/e6247970aa2dabd1e1acc6e4901eaa61.gif" width="40" style="vertical-align:middle; margin-right:10px;">
 </p>
 
 **Languages**: Python, Java, MATLAB, C++, HTML/CSS  
@@ -61,11 +60,12 @@
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
-- 📧 Email: [ztuiachi@nyit.edu](mailto:ztuiachi@nyit.edu)  
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jasmine-tuiachieva-6338a5259/) 
-- 🗂 Portfolio (coming soon!)
+- Email: [ztuiachi@nyit.edu](mailto:ztuiachi@nyit.edu) , [zhasmin235222@gmail.com](mailto:zhasmin235222@gmail.com) 
+- LinkedIn: [linkedin.com/in/jasmine-tuiachieva](https://www.linkedin.com/in/jasmine-tuiachieva-6338a5259/)
+- Telegram: [@Djazzzy](![image](https://github.com/user-attachments/assets/9576a08a-0336-44eb-bd5a-b4ec37d42785)
+)
 
 <!-- Chill anime footer -->
 <p align="center">
