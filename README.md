@@ -16,7 +16,7 @@
 <!-- Row 1 -->
 <table>
   <tr>
-    <td width="190"><img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="160"></td>
+    <td width="190"><img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="155"></td>
     <td><strong>I'm a Computer Science student at NYIT</strong>, concentrating in <strong>Big Data Management & Analytics</strong>.</td>
   </tr>
 </table>
