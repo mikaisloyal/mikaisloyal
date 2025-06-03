@@ -58,8 +58,8 @@
 
 ## Skills & Tools
 
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempvNnlocjQycHdiM3RndDl0YnVnNWl6Z3pxcmYzZnRlb3ppYngxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2Hq7bqjWWL8oWFz1T/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempvNnlocjQycHdiM3RndDl0YnVnNWl6Z3pxcmYzZnRlb3ppYngxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2Hq7bqjWWL8oWFz1T/giphy.gif" width="300"/>
 </p>
 
 **Languages**: Python, Java, MATLAB, C++, HTML/CSS  
