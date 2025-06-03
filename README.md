@@ -14,12 +14,12 @@
 ## About Me
 
 <p>
-  <img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="130" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="130" style="vertical-align:middle; margin-right:10px; float: right">
   I'm a Computer Science student at NYIT, concentrating in <strong>Big Data Management & Analytics</strong>.
 </p>
 
 <p>
-  I love solving problems using data, building smart systems, and exploring AI/logic. <img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="130" style="vertical-align:middle; margin-right:10px;">
+  I love solving problems using data, building smart systems, and exploring AI/logic. <img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="130" style="vertical-align:middle; margin-left:10px;">
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-  I also love anime! <em>(you’ll see hints here and there 👀)</em>  <img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="130" style="vertical-align:middle; margin-right:10px;">
+  I also love anime! <em>(you’ll see hints here and there 👀)</em>  <img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="130" style="vertical-align:middle; margin-left:10px;">
 </p>
 
 <p>
