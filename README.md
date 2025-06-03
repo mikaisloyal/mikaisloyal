@@ -48,7 +48,7 @@
 <!-- Row 5 -->
 <table>
   <tr>
-    <td width="390"><img src="https://media1.tenor.com/m/-e9u21bmf2IAAAAC/dungeon-meshi-delicious-in-dungeon.gif" width="390"></td>
+    <td width="380"><img src="https://media1.tenor.com/m/-e9u21bmf2IAAAAC/dungeon-meshi-delicious-in-dungeon.gif" width="380"></td>
     <td>I enjoy cooking. Especially Asian recipes and Kyrgyz comfort food!</td>
   </tr>
 </table>
