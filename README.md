@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a6/80/1a/a6801a1791d7525ac34ca743b4c2a4d2.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/a6/80/1a/a6801a1791d7525ac34ca743b4c2a4d2.gif" width="400"/>
 </p>
 
 <h1 align="center">Hi there, I'm Jasmine Tuiachieva! 🌸</h1>
@@ -59,7 +59,7 @@
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/93/c5/9893c5f96f35f50272b39faf25daaf13.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/98/93/c5/9893c5f96f35f50272b39faf25daaf13.gif" width="400"/>
 </p>
 
 **Languages**: Python, Java, MATLAB, C++, HTML/CSS  
