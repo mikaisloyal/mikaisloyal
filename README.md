@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td>I also love anime! <em>(you’ll see hints here and there 👀)</em></td>
-    <td width="130"><img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="240"></td>
+    <td width="150"><img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="240"></td>
   </tr>
 </table>
 
