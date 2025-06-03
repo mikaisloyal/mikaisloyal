@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td width="130"><img src="https://i.pinimg.com/originals/e6/24/79/e6247970aa2dabd1e1acc6e4901eaa61.gif" width="220"></td>
-    <td>I enjoy cooking — especially Asian recipes and Kyrgyz comfort food!</td>
+    <td>I enjoy cooking. Especially Asian recipes and Kyrgyz comfort food!</td>
   </tr>
 </table>
 
@@ -64,8 +64,8 @@
 
 **Languages**: Python, Java, MATLAB, C++, HTML/CSS  
 **Tools**: Git, GitHub, Visual Studio, IntelliJ, Tableau, Excel  
-**Concepts**: Data Analysis, Logic Circuits, OOP, GUI Development  
-**Learning**: SQL, Data Structures & Algorithms
+**Concepts**: Data Analysis and Interpretation, Java Programming & OOP, Digital Logic Fundamentals, Technology and Global Issues, Probability and Statistics, Discrete Mathematics, Computer Graphics,
+Web Technologies, Intro to Database Systems, Applied Calculus & Mathematical Modeling, Electricity, Magnetism & Circuit Design
 
 ---
 
