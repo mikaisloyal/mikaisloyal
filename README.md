@@ -41,14 +41,14 @@
 <table>
   <tr>
     <td>I also love anime! <em>(you’ll see hints here and there 👀)</em></td>
-    <td width="390"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="470"></td>
+    <td width="390"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="460"></td>
   </tr>
 </table>
 
 <!-- Row 5 -->
 <table>
   <tr>
-    <td width="380"><img src="https://media1.tenor.com/m/-e9u21bmf2IAAAAC/dungeon-meshi-delicious-in-dungeon.gif" width="290"></td>
+    <td width="400"><img src="https://media1.tenor.com/m/-e9u21bmf2IAAAAC/dungeon-meshi-delicious-in-dungeon.gif" width="400"></td>
     <td>I enjoy cooking. Especially Asian recipes and Kyrgyz comfort food!</td>
   </tr>
 </table>
