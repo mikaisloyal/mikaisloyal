@@ -14,30 +14,27 @@
 ## About Me
 
 <p>
-  <img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="80" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="130" style="vertical-align:middle; margin-right:10px;">
   I'm a Computer Science student at NYIT, concentrating in <strong>Big Data Management & Analytics</strong>.
 </p>
 
 <p>
-  <img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="80" style="vertical-align:middle; margin-right:10px;">
-  I love solving problems using data, building smart systems, and exploring AI/logic.
+  I love solving problems using data, building smart systems, and exploring AI/logic. <img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="130" style="vertical-align:middle; margin-right:10px;">
 </p>
 
 <p>
-  <img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="80" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="130" style="vertical-align:middle; margin-right:10px;">
   Originally from Kyrgyzstan 🇰🇬, studying in NYC 🇺🇸, and dreaming big.
 </p>
 
 <p>
-  <img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="80" style="vertical-align:middle; margin-right:10px;">
-  I also love anime! <em>(you’ll see hints here and there 👀)</em>
+  I also love anime! <em>(you’ll see hints here and there 👀)</em>  <img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="130" style="vertical-align:middle; margin-right:10px;">
 </p>
 
 <p>
-  <img src="https://i.pinimg.com/originals/e6/24/79/e6247970aa2dabd1e1acc6e4901eaa61.gif" width="80" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://i.pinimg.com/originals/e6/24/79/e6247970aa2dabd1e1acc6e4901eaa61.gif" width="130" style="vertical-align:middle; margin-right:10px;">
   And I enjoy cooking — especially Asian recipes and Kyrgyz comfort food!
 </p>
-
 
 
 ---
@@ -62,7 +59,7 @@
 - LinkedIn: [linkedin.com/in/jasmine-tuiachieva](https://www.linkedin.com/in/jasmine-tuiachieva-6338a5259/)
 - Telegram: [@Djazzzy](https://t.me/Djazzzy)
 
-<!-- Chill anime footer -->
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR1cDJvcHk1eXF6Z2d6N3ZuZnJ0MDdzanV1eTRtZHF0NWwxdjNlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif" width="300"/>
 </p>
