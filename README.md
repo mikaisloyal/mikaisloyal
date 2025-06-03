@@ -41,14 +41,14 @@
 <table>
   <tr>
     <td>I also love anime! <em>(you’ll see hints here and there 👀)</em></td>
-    <td width="150"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="240"></td>
+    <td width="150"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="280"></td>
   </tr>
 </table>
 
 <!-- Row 5 -->
 <table>
   <tr>
-    <td width="130"><img src="https://media1.tenor.com/m/-e9u21bmf2IAAAAC/dungeon-meshi-delicious-in-dungeon.gif" width="220"></td>
+    <td width="130"><img src="https://media1.tenor.com/m/-e9u21bmf2IAAAAC/dungeon-meshi-delicious-in-dungeon.gif" width="280"></td>
     <td>I enjoy cooking. Especially Asian recipes and Kyrgyz comfort food!</td>
   </tr>
 </table>
@@ -59,7 +59,7 @@
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/93/c5/9893c5f96f35f50272b39faf25daaf13.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/xv7gDN-yXw0AAAAd/jujutsu-kaisen-shibuya-incident.gif" width="400"/>
 </p>
 
 **Languages**: Python, Java, MATLAB, C++, HTML/CSS  
