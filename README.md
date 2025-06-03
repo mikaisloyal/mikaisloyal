@@ -32,7 +32,7 @@
 <!-- Row 3 -->
 <table>
   <tr>
-    <td width="130"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="290"></td>
+    <td width="190"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="290"></td>
     <td>Originally from <strong>Kyrgyzstan 🇰🇬</strong>, studying in NYC 🇺🇸, and dreaming big.</td>
   </tr>
 </table>
