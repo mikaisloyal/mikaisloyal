@@ -59,7 +59,7 @@
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/47/d0/c7/47d0c70ae064577a49f545214a06b716.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/98/93/c5/9893c5f96f35f50272b39faf25daaf13.gif" width="300"/>
 </p>
 
 **Languages**: Python, Java, MATLAB, C++, HTML/CSS  
