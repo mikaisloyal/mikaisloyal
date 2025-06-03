@@ -32,7 +32,7 @@
 <!-- Row 3 -->
 <table>
   <tr>
-    <td width="290"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="290"></td>
+    <td width="350"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="350"></td>
     <td>Originally from <strong>Kyrgyzstan 🇰🇬</strong>, studying in NYC 🇺🇸, and dreaming big.</td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td>I also love anime! <em>(you’ll see hints here and there 👀)</em></td>
-    <td width="190"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="300"></td>
+    <td width="290"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="290"></td>
   </tr>
 </table>
 
