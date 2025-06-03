@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempvNnlocjQycHdiM3RndDl0YnVnNWl6Z3pxcmYzZnRlb3ppYngxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FWAcpJsFT9mvrv0e7a/giphy.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/a6/80/1a/a6801a1791d7525ac34ca743b4c2a4d2.gif" width="300"/>
 </p>
 
 <h1 align="center">Hi there, I'm Jasmine Tuiachieva! 🌸</h1>
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td>I love solving problems using data, building smart systems, and exploring AI/logic.</td>
-    <td width="130"><img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="250"></td>
+    <td width="130"><img src="https://i.pinimg.com/originals/92/04/b7/9204b76de7e38bc4efbc2f800add06c3.gif" width="250"></td>
   </tr>
 </table>
 
@@ -41,14 +41,14 @@
 <table>
   <tr>
     <td>I also love anime! <em>(you’ll see hints here and there 👀)</em></td>
-    <td width="150"><img src="https://i.pinimg.com/474x/d1/ea/84/d1ea84767aa150740cc314053e6eec8e.jpg" width="240"></td>
+    <td width="150"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="240"></td>
   </tr>
 </table>
 
 <!-- Row 5 -->
 <table>
   <tr>
-    <td width="130"><img src="https://i.pinimg.com/originals/e6/24/79/e6247970aa2dabd1e1acc6e4901eaa61.gif" width="220"></td>
+    <td width="130"><img src="https://media1.tenor.com/m/-e9u21bmf2IAAAAC/dungeon-meshi-delicious-in-dungeon.gif" width="220"></td>
     <td>I enjoy cooking. Especially Asian recipes and Kyrgyz comfort food!</td>
   </tr>
 </table>
@@ -59,7 +59,7 @@
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempvNnlocjQycHdiM3RndDl0YnVnNWl6Z3pxcmYzZnRlb3ppYngxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2Hq7bqjWWL8oWFz1T/giphy.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/47/d0/c7/47d0c70ae064577a49f545214a06b716.gif" width="300"/>
 </p>
 
 **Languages**: Python, Java, MATLAB, C++, HTML/CSS  
