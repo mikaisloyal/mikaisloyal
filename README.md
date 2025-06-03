@@ -14,15 +14,17 @@
 ## About Me
 
 <!--section 1--->
-<div style = "display: flex; align-items; center; justify-content: space-between; margin-bottom: 20px;>
-  <img scr = "https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width = "130"/> 
-  <p style = "margin: 0 20px;"> I'm a Computer Science student at NYIT, concentrating in <strong>Big Data Management & Analytics</strong>.</p>
-<div>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+  <img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="130"/>
+  <p style="margin: 0 20px;">I'm a Computer Science student at NYIT, concentrating in <strong>Big Data Management & Analytics</strong>.</p>
+</div>
 
+<!--section 2-->
+<div style = "display: felx; align-items: center; justify-content: space-between; flex-direction: row-reverse; margin-bottom: 20px;">
+  <img src = "https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width = "130"/.>
+  <p style = "margin: 0 20px;"> I love solving problems using data, building smart systems, and exploring AI/logic.</p>
+</div>
 
-<p>
-  I love solving problems using data, building smart systems, and exploring AI/logic. <img src="https://i.pinimg.com/736x/e8/e6/ab/e8e6ab5e9de36811a8013aa64bcd3054.jpg" width="130" style="vertical-align:middle; margin-left:10px;">
-</p>
 
 <p>
   <img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="130" style="vertical-align:middle; margin-right:10px;">
