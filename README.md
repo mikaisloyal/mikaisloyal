@@ -16,7 +16,7 @@
 <!-- Row 1 -->
 <table>
   <tr>
-    <td width="130"><img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="130"></td>
+    <td width="150"><img src="https://i.pinimg.com/originals/c6/5e/c9/c65ec9a8eea3d1c446f290e0a2aac54c.gif" width="130"></td>
     <td><strong>I'm a Computer Science student at NYIT</strong>, concentrating in <strong>Big Data Management & Analytics</strong>.</td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
 <!-- Row 3 -->
 <table>
   <tr>
-    <td width="130"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="230"></td>
+    <td width="130"><img src="https://i.pinimg.com/736x/b7/a2/2a/b7a22a6c66ad2a4d412adb3cbf3a7106.jpg" width="290"></td>
     <td>Originally from <strong>Kyrgyzstan 🇰🇬</strong>, studying in NYC 🇺🇸, and dreaming big.</td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td>I also love anime! <em>(you’ll see hints here and there 👀)</em></td>
-    <td width="150"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="280"></td>
+    <td width="150"><img src="https://media1.tenor.com/m/TmQG5zFf_MIAAAAC/bling-bang-bang-born-mashle.gif" width="300"></td>
   </tr>
 </table>
 
