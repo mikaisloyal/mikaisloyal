@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/a6/80/1a/a6801a1791d7525ac34ca743b4c2a4d2.gif" width="400"/>
 </p>
 
-<h1 align="center">Hi there, I'm Jasmine Tuiachieva! 🌸</h1>
+<h1 align="center">Hi there, I'm Jasmine! ( ≖‿ ≖ ) </h1>
 
 <p align="center">
   Aspiring Data Scientist & Software Engineer | CS @ NYIT | Big Data Enthusiast
